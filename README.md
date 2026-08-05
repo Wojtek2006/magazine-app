@@ -1,1 +1,1 @@
-"# magazine-app" 
+# magazine-app 
